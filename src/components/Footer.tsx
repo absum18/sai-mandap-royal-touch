@@ -35,7 +35,7 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Follow Us</h4>
             <div className="flex gap-4">
               <a 
-                href="#" 
+                href="https://www.instagram.com/sunil.nayka3855?igsh=eGp6YjMweWZ3c3pv" 
                 className="w-10 h-10 rounded-full bg-background/10 hover:bg-primary flex items-center justify-center transition-colors duration-300"
                 aria-label="Instagram"
               >
